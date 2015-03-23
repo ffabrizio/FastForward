@@ -1,0 +1,11 @@
+﻿.bird {
+    background: yellow;
+    border: solid 1px green;
+}
+.bird h2 {
+    color: red;
+}
+.bird p {
+    color: green;
+}
+
